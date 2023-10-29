@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486642283317",
+    "project_id": "fcmdemo-30022",
+    "storage_bucket": "fcmdemo-30022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486642283317:android:01803253cf9416a621927c",
+        "android_client_info": {
+          "package_name": "com.ninjatech.fcmnotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx0XXLg3OSfCHCGQVvvfclxp0HX5SPT_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
